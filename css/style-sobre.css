@@ -1,0 +1,106 @@
+body {
+    background-color: rgb(72, 72, 72);
+    font-family: 'Roboto';
+    margin: 0 auto;
+}
+
+#cabeca {
+    background-color: rgb(47, 47, 47);
+    background-image: linear-gradient(rgb(47, 47, 47), rgb(72, 72, 72));
+    justify-content: center;
+    margin-bottom: 100px;
+}
+#cabeca img {
+    width: 300px;
+    height: 300px;
+    margin-left: 80px;
+}
+#cabeca h1 {
+    color: rgb(216, 134, 40);
+    font-family: Georgia;
+    font-size: 75px;
+}
+#cabeca h2 {
+    color: rgb(132, 94, 50);
+    font-family: Georgia;
+    font-size: 50px;
+    font-variation-settings:"XROT" 0, "YROT" 0;
+}
+
+#painel {
+    background-color: rgb(47, 47, 47);
+    font-family: Georgia;
+    list-style: none;
+    padding: 50px;
+    display: flex;
+    justify-content: space-around;
+    border: 1px;
+    border-style: solid;
+    font-size: 30px;
+}
+
+#painel ul {
+    max-width: 900px;
+}
+#painel li {
+    display: inline;
+    display: inline-block;
+    text-decoration: none;
+
+}
+
+#painel a {
+    text-decoration: double;
+    color: rgb(192, 112, 22);
+}
+
+#quadro {
+    background-image: linear-gradient(rgb(47, 47, 47), rgb(72, 72, 72)); 
+    margin: 70px;
+    display: grid;
+    justify-content: center;
+}
+
+#quadro h1, h3 {
+    color:rgb(190, 185, 178);
+    margin: 20px;
+}
+#quadro td, p {
+    color: aliceblue;
+    margin: 20px;
+}
+#quadro img {
+    width: 400px;
+    height: 500px;
+    margin: 50px;
+}
+
+hr {
+    border-color:rgb(190, 185, 178);
+}
+
+#Contato {
+    background-image: linear-gradient( rgb(72, 72, 72), rgb(47, 47, 47));
+    color:rgb(190, 185, 178);
+    font-size: 25px;
+    display: grid;
+    justify-content: center;
+}
+
+#Contato h1 {
+    font-size: 30px;
+    color:rgb(190, 185, 178);
+    margin-left: 100px;
+    display: grid;
+    justify-content: center;
+}
+
+#fim {
+    background-color: rgb(47, 47, 47);
+    display: grid;
+    justify-content: center;
+}
+
+#fim p {
+    color: rgba(229, 229, 229, 0.155);
+}

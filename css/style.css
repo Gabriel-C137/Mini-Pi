@@ -1,0 +1,121 @@
+body {
+    background-color: rgb(72, 72, 72);
+    font-family: 'Roboto';
+    margin: 0 auto;
+}
+
+#cabeca {
+    background-color: rgb(47, 47, 47);
+    background-image: linear-gradient(rgb(47, 47, 47), rgb(72, 72, 72));
+    justify-content: center;
+    margin-bottom: 100px;
+}
+#cabeca img {
+    width: 300px;
+    height: 300px;
+    margin-left: 80px;
+}
+#cabeca h1 {
+    color: rgb(216, 134, 40);
+    font-family: Georgia;
+    font-size: 75px;
+}
+#cabeca h2 {
+    color: rgb(132, 94, 50);
+    font-family: Georgia;
+    font-size: 50px;
+    font-variation-settings:"XROT" 0, "YROT" 0;
+}
+
+#painel {
+    background-color: rgb(47, 47, 47);
+    font-family: Georgia;
+    list-style: none;
+    padding: 50px;
+    display: flex;
+    justify-content: space-around;
+    border: 1px;
+    border-style: solid;
+    font-size: 30px;
+}
+
+#painel ul {
+    max-width: 900px;
+}
+#painel li {
+    display: inline;
+    display: inline-block;
+    text-decoration: none;
+
+}
+
+#painel a {
+    text-decoration: double;
+    color: rgb(192, 112, 22);
+}
+
+.segundo_texto {
+    color: rgb(192, 112, 22);
+    font-family: 'Roboto';
+    font-size: 20px;
+    border-color: rgb(96, 70, 119);
+    display: grid;
+    justify-content: center;
+    margin: 100px;
+}
+
+.segundo_texto img {
+    width: 500px;
+    height: 350px;
+}
+
+.terceiro_texto {
+    color: rgb(192, 112, 22);
+    font-family: 'Roboto';
+    font-size: 20px;
+    border-color: rgb(96, 70, 119);
+    display: grid;
+    justify-content: center;
+    margin: 100px;
+}
+.terceiro_texto img {
+    width: 600px;
+    height: 400px;
+}
+
+#texto-video {
+    color: rgb(192, 112, 22);
+    border-color: rgb(96, 70, 119);
+    display: grid;
+    justify-content: center;
+}
+
+hr {
+    border-color: rgb(192, 112, 22);;
+}
+
+#Contato {
+    background-image: linear-gradient( rgb(72, 72, 72), rgb(47, 47, 47));
+    color:rgb(159, 97, 26);
+    font-size: 25px;
+    display: grid;
+    justify-content: center;
+}
+
+#Contato h1 {
+    font-size: 50px;
+    color:rgb(159, 97, 26);
+    margin-left: 100px;
+        display: grid;
+    justify-content: center;
+}
+
+#fim {
+    background-color: rgb(47, 47, 47);
+    display: grid;
+    justify-content: center;
+}
+
+#fim p {
+    color: rgba(229, 229, 229, 0.155);
+}
