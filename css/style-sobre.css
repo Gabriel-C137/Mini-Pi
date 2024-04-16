@@ -45,13 +45,12 @@ body {
 #painel li {
     display: inline;
     display: inline-block;
-    text-decoration: none;
-
 }
 
 #painel a {
     text-decoration: double;
     color: rgb(192, 112, 22);
+    text-decoration: none;
 }
 
 #quadro {
