@@ -77,6 +77,11 @@ body {
     margin: 50px;
 }
 
+#quadro img:hover{
+    opacity: 0.7;
+    transform: scale(1.03);
+}
+
 hr {
     border-color:rgb(190, 185, 178);
 }

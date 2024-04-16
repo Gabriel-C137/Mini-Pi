@@ -73,6 +73,11 @@ body {
     height: 350px;
 }
 
+.segundo_texto img:hover{
+    opacity: 0.7;
+    transform: scale(1.02);
+}
+
 .terceiro_texto {
     color: aliceblue;
     font-family: 'Roboto';
@@ -83,8 +88,13 @@ body {
     margin: 100px;
 }
 .terceiro_texto img {
-    width: 600px;
+    width: 700px;
     height: 400px;
+}
+
+.terceiro_texto img:hover {
+    opacity: 0.7;
+    transform: scale(1.01);
 }
 
 #texto-video {
