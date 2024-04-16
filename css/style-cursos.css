@@ -58,6 +58,46 @@ body {
     color: aliceblue;
 }
 
+#pcursos {
+    display: grid;
+    justify-content: center;
+    background-image: linear-gradient(rgb(47, 47, 47), rgb(72, 72, 72));
+    margin: 60px;
+    margin-top: 60px;
+}
+
+#pcursos td {
+    display: grid;
+    justify-content: center;
+    width: 450px;
+    height: 500px;
+    background-color: rgb(96, 96, 96);
+    border: 1px;
+    border-style: double;
+    border-radius: 3%;
+    border-color: grey;
+    display: inline-table;
+    margin-top: 80px;
+}
+
+#pcursos h1 {
+    letter-spacing: 10px;
+    color: rgb(216, 134, 40);
+}
+
+#pcursos h2 {
+    color: rgb(216, 134, 40);
+}
+
+#pcursos p {
+    color: aliceblue;
+}
+
+#pcursos td:hover{
+    opacity: 0.9;
+    transform: scale(1.05);
+}
+
 hr {
     border-color: aliceblue;
 }
