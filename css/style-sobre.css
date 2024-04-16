@@ -52,7 +52,9 @@ body {
     text-decoration: none;
 }
 
-
+#painel a:hover {
+    color: aliceblue;
+}
 
 #quadro {
     background-image: linear-gradient(rgb(47, 47, 47), rgb(72, 72, 72)); 

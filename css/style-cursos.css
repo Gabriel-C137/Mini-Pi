@@ -54,6 +54,10 @@ body {
     text-decoration: none;
 }
 
+#painel a:hover {
+    color: aliceblue;
+}
+
 hr {
     border-color: aliceblue;
 }

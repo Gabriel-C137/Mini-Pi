@@ -53,6 +53,10 @@ body {
     text-decoration: none;
 }
 
+#painel a:hover {
+    color: aliceblue;
+}
+
 
 .segundo_texto {
     color: aliceblue;
