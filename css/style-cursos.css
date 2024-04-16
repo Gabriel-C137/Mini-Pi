@@ -50,8 +50,8 @@ body {
 }
 
 #painel a {
-    text-decoration: double;
     color: rgb(216, 134, 40);
+    text-decoration: none;
 }
 
 hr {
