@@ -60,15 +60,15 @@ hr {
 
 #Contato {
     background-image: linear-gradient( rgb(72, 72, 72), rgb(47, 47, 47));
-    color:rgb(159, 97, 26);
+    color:aliceblue;
     font-size: 25px;
     display: grid;
     justify-content: center;
 }
 
 #Contato h1 {
-    font-size: 30px;
-    color:rgb(159, 97, 26);
+    font-size: 50px;
+    color:rgb(216, 134, 40);
     margin-left: 100px;
     display: grid;
     justify-content: center;

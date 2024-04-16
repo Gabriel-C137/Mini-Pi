@@ -16,12 +16,12 @@ body {
     margin-left: 80px;
 }
 #cabeca h1 {
-    color: rgb(190, 185, 178);
+    color: rgb(216, 134, 40);
     font-family: Georgia;
     font-size: 75px;
 }
 #cabeca h2 {
-    color: rgb(190, 185, 178);
+    color: rgb(132, 94, 50);
     font-family: Georgia;
     font-size: 50px;
     font-variation-settings:"XROT" 0, "YROT" 0;
@@ -49,7 +49,7 @@ body {
 }
 
 #painel a {
-    color: rgb(190, 185, 178);
+    color: rgb(216, 134, 40);
     text-decoration: none;
 }
 
@@ -103,9 +103,9 @@ hr {
 
 #Contato h1 {
     font-size: 50px;
-    color:aliceblue;
+    color: rgb(216, 134, 40);
     margin-left: 100px;
-        display: grid;
+    display: grid;
     justify-content: center;
 }
 
