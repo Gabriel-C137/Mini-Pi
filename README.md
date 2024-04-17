@@ -9,13 +9,6 @@ Meu primeiro objetivo é conseguir minha vaga de front, me aprimorar e me tornar
 Com meu conhecimento de front-end planejo criar templates para vender, e comercializar infoprodutos na internet e web aplicações que geram renda passiva.</p>
 
 **********
-<div align="left">
-🌱 Ａｔｕａｌｍｅｎｔｅ, ｅｓｔｏｕ ａｐｒｅｎｄｅｎｄｏ ｉｎｔｅｇｒａçãｏ ｄｅ ＡＰＩ ｖｏｕ ｉｎｉｃｉａｒ<strong> Ｊｅｓｔ</strong> ｅ <strong> ｒｅａｃｔ<strong><br>
-💬 Posso responder perguntas sobre <strong>JavaScript, HTML, CSS , Java-script </strong> <br>mas sinta-se a vontade para perguntar sobre musica e teatro<br>
-</div>
-<!--  https://psfonttk.com/letras-diferentes-para-nick/-->
-
-***************	
 
 <h3 align="center">Entre em contato:</h3>
 <p align="center"><img src="https://custom-icon-badges.demolab.com/badge/contactrodrigues21@gmail.com-808080?style=for-the-badge&logo=mention&logoColor=white"> 
