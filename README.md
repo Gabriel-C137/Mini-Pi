@@ -32,10 +32,18 @@ Professor Márcio - Fatec Franca
 * **Gabriel Camara** - *Documentação* - [Gabriel](https://github.com/Gabriel-C137)
 
 ## 👀 Visual do Projeto -
-![Cabeça do Site](https://github.com/Gabriel-C137/CV---Gabriel-Camara/assets/91295561/bb213d16-2b1b-4052-a8c0-c9adfb796c8c)
+![início](https://github.com/Gabriel-C137/Mini-Pi/assets/91295561/fbb947d8-8038-4b2f-bcb6-655a83b628d8)
 
-![Info](https://github.com/Gabriel-C137/CV---Gabriel-Camara/assets/91295561/5221aa8b-2bf9-4338-b001-d3180c579747)
+![quadro1](https://github.com/Gabriel-C137/Mini-Pi/assets/91295561/86c5b03f-6ca9-46d4-b98e-2524e60f7be1)
 
-![Objetivo](https://github.com/Gabriel-C137/CV---Gabriel-Camara/assets/91295561/2092157a-fe7d-4747-80bb-95cc238e4ece)
+![quadro2](https://github.com/Gabriel-C137/Mini-Pi/assets/91295561/9efa82db-dec9-4b76-b558-51072518ad21)
 
-![Fim do site](https://github.com/Gabriel-C137/CV---Gabriel-Camara/assets/91295561/60f5afb4-41a4-4701-bdcf-4f8acde6b247)
+![video](https://github.com/Gabriel-C137/Mini-Pi/assets/91295561/323f2986-ab5c-47af-8e7f-7fdec03865f8)
+
+![contato](https://github.com/Gabriel-C137/Mini-Pi/assets/91295561/36eff020-6043-461d-bf05-caaab3bc617e)
+
+![cursos1](https://github.com/Gabriel-C137/Mini-Pi/assets/91295561/3c63952c-6d0b-4e73-a7be-86bfc67c787b)
+
+![cursos_2](https://github.com/Gabriel-C137/Mini-Pi/assets/91295561/e32b5d28-d374-4631-95b4-7cb6396393b9)
+
+![sobre_ultimo](https://github.com/Gabriel-C137/Mini-Pi/assets/91295561/d5b25b23-79bd-4058-88a4-fee94a65d1b0)
