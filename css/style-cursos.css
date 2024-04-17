@@ -90,7 +90,7 @@ body {
 }
 
 #pcursos p {
-    color: aliceblue;
+    color: rgb(188, 167, 145);;
 }
 
 #pcursos td:hover{
@@ -98,8 +98,12 @@ body {
     transform: scale(1.05);
 }
 
+#pcursos .subtexto {
+    color: aliceblue;
+}
+
 hr {
-    border-color: aliceblue;
+    border-color: rgb(255, 243, 228);
 }
 
 #Contato {
