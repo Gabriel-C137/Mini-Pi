@@ -1,21 +1,40 @@
-<h1 align="center">Olá  <img src="https://media3.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif?cid=ecf05e47paay6b31bbe5z0nvmk1ix8xds7p6l59rhhy7x9l6&rid=giphy.gif&ct=g" width="40px"/>, eu sou Rafael </h1>
+# Projeto MINI_PI
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=fd428d&center=true&vCenter=true&width=1000&lines=Dev+front+end+em+forma%C3%A7%C3%A3o;adoro+um+css+gourmet)](https://git.io/typing-svg)
+O projeto visa transformar a tradicional experiência de um currículo em um ambiente digital e envolvente, acessível através de um site web. Em vez de um documento estático em papel ou um arquivo PDF, este currículo será uma representação dinâmica e visualmente atraente das habilidades, experiências e conquistas do candidato.
 
-<img align="left" src="" width="320px">
-<p>Estudo front-end e faço pequenos projetos web, tenho vontade de empreende com tecnologia e estou em busca da minha vaga como dev front-end junior. Sou aluno do dev quest, prog-br e constantemente estou presente fazendo lives no discord. Criei meu blog a fim de disseminar conhecimento em tecnologia resolver problemas maiores a medida que melhoro meus conhecimentos, algumas postagens publico na minha newsletter do linkedin que criei para buscar pessoas cheias de ideias assim como eu. 
-Contrubuo com a comunidade de software livre como a debian em mg, adoro mecher em sistemas operacionais e testar. Eu sou muito empolgado e cheio de criatividade, então as vezes preciso me puxar para o chao com tantas ideias rs. Eu fui ator e músico e agora estou na area de TI.
-Meu primeiro objetivo é conseguir minha vaga de front, me aprimorar e me tornar full stack e com conhecimento de back-end investir em conhecer mais sobre ciber security.
-Com meu conhecimento de front-end planejo criar templates para vender, e comercializar infoprodutos na internet e web aplicações que geram renda passiva.</p>
+## 🚀 Começando
 
-**********
+Todo projeto é bem simples e de cunho pessoal mesmo, site sobre o meu CV. 
 
-<h3 align="center">Entre em contato:</h3>
-<p align="center"><img src="https://custom-icon-badges.demolab.com/badge/contactrodrigues21@gmail.com-808080?style=for-the-badge&logo=mention&logoColor=white"> 
-<a href="https://www.linkedin.com/in/rafinhadev/" target="blank"><img src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-808080?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.instagram.com/rafinha_dev/" target="blank"><img src="https://custom-icon-badges.demolab.com/badge/-Instagram-808080?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://codepen.io/rafinha-dev" target="blank"><img src="https://custom-icon-badges.demolab.com/badge/-CodePen-808080?style=for-the-badge&logo=CodePen&logoColor=white"></a>
-<a href="https://dev.to/rafinhadev" target="blank"><img src="https://custom-icon-badges.demolab.com/badge/-Blog_dev.to-808080?style=for-the-badge&logo=dev.to&logoColor=white"></a>
-<a href="https://hashnode.com/@rafinhadev" target="blank"><img src="https://custom-icon-badges.demolab.com/badge/-Blog_Hashnode-808080?style=for-the-badge&logo=hashnode&logoColor=white"></a>
-	
-</p>
+### 📋 Pré-requisitos
+
+Não é nessesário nenhuma pré-instalação para a execução/vizualização desse projeto, basta um navegador de internet (como Google Chrome, Mozilla Firefox e/ou Microsoft Edge)
+
+### 🔧 Instalação/Acesso
+
+Para o acesso ao meu CV:
+[Meu Site](https://gabriel-c137.github.io/CV---Gabriel-Camara/)
+
+## 🛠️ Construído com
+
+* Todo código contruído com HTML no Visual Studio Code
+* Imagens reutilizadas dos meus perfis pessoais
+* Para as demais site de papel de parede [Unsplash](https://unsplash.com/pt-br/wallpapers)
+
+## 🖇️ Colaborando
+
+Professor Márcio - Fatec Franca
+
+## ✒️ Autores
+
+* **Gabriel Camara** - *Trabalho Inicial* - [Gabriel](https://github.com/Gabriel-C137)
+* **Gabriel Camara** - *Documentação* - [Gabriel](https://github.com/Gabriel-C137)
+
+## 👀 Visual do Projeto
+![Cabeça do Site](https://github.com/Gabriel-C137/CV---Gabriel-Camara/assets/91295561/bb213d16-2b1b-4052-a8c0-c9adfb796c8c)
+
+![Info](https://github.com/Gabriel-C137/CV---Gabriel-Camara/assets/91295561/5221aa8b-2bf9-4338-b001-d3180c579747)
+
+![Objetivo](https://github.com/Gabriel-C137/CV---Gabriel-Camara/assets/91295561/2092157a-fe7d-4747-80bb-95cc238e4ece)
+
+![Fim do site](https://github.com/Gabriel-C137/CV---Gabriel-Camara/assets/91295561/60f5afb4-41a4-4701-bdcf-4f8acde6b247)
