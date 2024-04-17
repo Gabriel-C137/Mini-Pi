@@ -1,36 +1,37 @@
 # Projeto MINI_PI
 
-O projeto visa transformar a tradicional experiência de um currículo em um ambiente digital e envolvente, acessível através de um site web. Em vez de um documento estático em papel ou um arquivo PDF, este currículo será uma representação dinâmica e visualmente atraente das habilidades, experiências e conquistas do candidato.
+Esse projeto tem em vista construir um site para uma faculdade fictícia, contendo grandes textos, vídeo, imagens e botões interativos.
 
 ## 🚀 Começando
 
-Todo projeto é bem simples e de cunho pessoal mesmo, site sobre o meu CV. 
+Tem o objetivo educativo, uma atividade para preparar e entender sobre a estrutura do Pi no final do 1 semestre da minha faculdade, Fatec Franca.
 
-### 📋 Pré-requisitos
+### 📋 Pré-requisitos:
 
-Não é nessesário nenhuma pré-instalação para a execução/vizualização desse projeto, basta um navegador de internet (como Google Chrome, Mozilla Firefox e/ou Microsoft Edge)
+Esse também não é nessesário nenhuma pré-instalação para a execução/vizualização desse projeto, basta um navegador de internet (como Google Chrome, Mozilla 
+Firefox e/ou Microsoft Edge)
 
-### 🔧 Instalação/Acesso
+### 🔧 Instalação/Acesso:
 
-Para o acesso ao meu CV:
-[Meu Site](https://gabriel-c137.github.io/CV---Gabriel-Camara/)
+Para o acesso á esse projeto:
+[Meu Site](https://gabriel-c137.github.io/Mini-Pi/)
 
-## 🛠️ Construído com
+## 🛠️ Construído com:
 
-* Todo código contruído com HTML no Visual Studio Code
-* Imagens reutilizadas dos meus perfis pessoais
-* Para as demais site de papel de parede [Unsplash](https://unsplash.com/pt-br/wallpapers)
+* Todo código contruído com HTML e CSS no Visual Studio Code
+* Logo e Favicon tirados de um banco de uso gratuito [Favicons e Logos](https://icon-icons.com/pt/)
+* Para as demais site de papel de parede, banco de imagens do Google
 
-## 🖇️ Colaborando
+## 🖇️ Colaboração:
 
 Professor Márcio - Fatec Franca
 
-## ✒️ Autores
+## ✒️ Autores:
 
 * **Gabriel Camara** - *Trabalho Inicial* - [Gabriel](https://github.com/Gabriel-C137)
 * **Gabriel Camara** - *Documentação* - [Gabriel](https://github.com/Gabriel-C137)
 
-## 👀 Visual do Projeto
+## 👀 Visual do Projeto -
 ![Cabeça do Site](https://github.com/Gabriel-C137/CV---Gabriel-Camara/assets/91295561/bb213d16-2b1b-4052-a8c0-c9adfb796c8c)
 
 ![Info](https://github.com/Gabriel-C137/CV---Gabriel-Camara/assets/91295561/5221aa8b-2bf9-4338-b001-d3180c579747)
