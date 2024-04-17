@@ -21,7 +21,7 @@ body {
     font-size: 75px;
 }
 #cabeca h2 {
-    color: rgb(132, 94, 50);
+    color: rgb(188, 167, 145);
     font-family: Georgia;
     font-size: 50px;
     font-variation-settings:"XROT" 0, "YROT" 0;
@@ -90,7 +90,7 @@ body {
 }
 
 #pcursos p {
-    color: rgb(188, 167, 145);;
+    color: rgb(188, 167, 145);
 }
 
 #pcursos td:hover{
