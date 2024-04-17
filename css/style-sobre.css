@@ -58,7 +58,8 @@ body {
 
 #quadro {
     background-image: linear-gradient(rgb(47, 47, 47), rgb(72, 72, 72)); 
-    margin: 70px;
+    margin: 60px;
+    margin-top: 60px;
     display: grid;
     justify-content: center;
 }
